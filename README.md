@@ -1,13 +1,40 @@
 ### <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Hi%2C+I'm+Oros+Cosmin!+%F0%9F%91%8B"> </p>
----
-### 🎓 I'm currently studying at Politehnica University Timisoara
-### 👨‍💻 Languages and Frameworks:   <img  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="padding-right:10px;" />  <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />  <img  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />  <img  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />   <img  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />  <img  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />  <img  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" /> <img  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />  <img  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:10px;" /> <img  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
-### 🗄️ Databases: <img  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /> <img  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" /> <img  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" /> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a>
-### 💻 Software and Tools: <img  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />   <img  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /> <img  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" /> <img  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px;" />   <img  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />  <img  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" /> 
----
-### 📫 How to reach me: oroscosmin09@gmail.com / cosmin.oros@student.upt.ro
-<a href="https://www.instagram.com/cosmin.oros/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
- <a href="https://www.linkedin.com/in/oros-cosmin/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+```kotlin
+object ListOfInfo {
+    fun getProgrammingLanguages(): ArrayList<String> {
+        return arrayListOf("Kotlin", "C", "C++", "Java", "Python", "Dart/Flutter", "C#", "Matlab")
+    }
+    
+    fun getDatabases(): ArrayList<String> {
+        return arrayListOf("SQL (MySql / SQLite)", "Firebase", "MongoDB")
+    }
+    
+    fun getTools(): ArrayList<String> {
+        return arrayListOf("Git", "Linux")
+    }
+    
+    fun getSoftware(): ArrayList<String> {
+        return arrayListOf("VSCode", "Visual Studio", "Intellij", "Android Studio", "Pycharm")
+    }
+    
+    fun getEmail(): String {
+        return "oroscosmin09@gmail.com"
+    }
+    
+    fun getSocials(): ArrayList<String> {
+        return arrayListOf("https://www.linkedin.com/in/oros-cosmin/", "https://www.instagram.com/cosmin.oros/")
+    }
+    
+    fun getEducationList(): ArrayList<String> {
+        return arrayListOf("Politehnica University Timisoara (C&IT)", "Colegiul 'Mihai Viteazul' Ineu (Maths and Informatics)")
+    }
+    
+    fun getExperienceList(): ArrayList<String> {
+        return arrayListOf("Continental Software Development Intern (10/22 - Present)")
+    }
+}
+```
+
 
 ### 💡 My stats:
 <p align="center">
