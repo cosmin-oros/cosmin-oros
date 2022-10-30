@@ -26,7 +26,8 @@ object ListOfInfo {
     }
     
     fun getEducationList(): ArrayList<String> {
-        return arrayListOf("Politehnica University Timisoara (C&IT)", "Colegiul 'Mihai Viteazul' Ineu (Maths and Informatics)")
+        return arrayListOf("Politehnica University Timisoara (C&IT)", 
+                           "Colegiul 'Mihai Viteazul' Ineu (Maths and Informatics)")
     }
     
     fun getExperienceList(): ArrayList<String> {
