@@ -31,7 +31,10 @@ object ListOfInfo {
     }
     
     fun getExperienceList(): ArrayList<String> {
-        return arrayListOf("Continental Software Development Intern (10/22 - Present)")
+        return arrayListOf("Continental
+                            Software Development Intern 
+                            (Oct. 2022 - Present)
+                            Timisoara, Timis, Romania")
     }
 }
 ```
