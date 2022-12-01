@@ -31,7 +31,12 @@ object ListOfInfo {
     }
     
     fun getExperienceList(): ArrayList<String> {
-        return arrayListOf("Continental
+        return arrayListOf("GDSC Politehnica University of Timisoara
+                            Mobile Developer
+                            (Nov. 2022 - Present)
+                            Timisoara, Timis, Romania",
+                            
+                            "Continental
                             Software Development Intern 
                             (Oct. 2022 - Present)
                             Timisoara, Timis, Romania")
