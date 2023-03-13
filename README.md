@@ -2,7 +2,7 @@
 ```kotlin
 object ListOfInfo {
     fun getProgrammingLanguages(): ArrayList<String> {
-        return arrayListOf("Kotlin", "C", "C++", "Java", "Python", "Dart/Flutter", "C#", "Matlab")
+        return arrayListOf("Kotlin", "C", "C++", "Java", "Python", "Dart/Flutter", "C#", "Matlab", "Bash")
     }
     
     fun getDatabases(): ArrayList<String> {
@@ -10,7 +10,7 @@ object ListOfInfo {
     }
     
     fun getTools(): ArrayList<String> {
-        return arrayListOf("Git", "Linux")
+        return arrayListOf("Git", "Linux", "Jira")
     }
     
     fun getSoftware(): ArrayList<String> {
