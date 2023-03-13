@@ -6,11 +6,11 @@ object ListOfInfo {
     }
     
     fun getDatabases(): ArrayList<String> {
-        return arrayListOf("SQL (MySql / SQLite)", "Firebase", "MongoDB")
+        return arrayListOf("SQL (MySql / SQLite / PostgreSQL)", "Firebase")
     }
     
     fun getTools(): ArrayList<String> {
-        return arrayListOf("Git", "Linux", "Jira")
+        return arrayListOf("Git", "Linux", "Jira", "Postman")
     }
     
     fun getSoftware(): ArrayList<String> {
