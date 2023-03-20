@@ -2,7 +2,7 @@
 ```kotlin
 object ListOfInfo {
     fun getProgrammingLanguages(): ArrayList<String> {
-        return arrayListOf("Kotlin", "C", "C++", "Java", "Python", "Dart/Flutter", "C#", "Matlab", "Bash")
+        return arrayListOf("Kotlin", "C", "C++", "Java", "Python", "Dart/Flutter", "Typescript" "C#", "Matlab", "Bash")
     }
     
     fun getDatabases(): ArrayList<String> {
