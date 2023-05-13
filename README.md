@@ -31,14 +31,19 @@ object ListOfInfo {
     }
     
     fun getExperienceList(): ArrayList<String> {
-        return arrayListOf("GDSC Politehnica University of Timisoara
+        return arrayListOf("[e-spres-oh]
+                            Liga AC LABS React Native
+                            (Apr. 2023 - Jun. 2023)
+                            Timisoara, Timis, Romania",
+                            
+                            "GDSC Politehnica University of Timisoara
                             Mobile Developer
                             (Nov. 2022 - Present)
                             Timisoara, Timis, Romania",
                             
                             "Continental
                             Software Development Intern 
-                            (Oct. 2022 - Present)
+                            (Oct. 2022 - May 2023)
                             Timisoara, Timis, Romania")
     }
 }
