@@ -31,7 +31,12 @@ object ListOfInfo {
     }
     
     fun getExperienceList(): ArrayList<String> {
-        return arrayListOf("[e-spres-oh]
+        return arrayListOf("Nokia
+                            Summer Practice - 5G Mobile App
+                            (Jun. 2023 - Present)
+                            Timisoara, Timis, Romania",
+        
+                            "[e-spres-oh]
                             Liga AC LABS React Native
                             (Apr. 2023 - Jun. 2023)
                             Timisoara, Timis, Romania",
