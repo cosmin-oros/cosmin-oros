@@ -33,7 +33,7 @@ object ListOfInfo {
     fun getExperienceList(): ArrayList<String> {
         return arrayListOf("Nokia
                             Summer Practice - 5G Mobile App
-                            (Jun. 2023 - Present)
+                            (Jun. 2023 - Jul. 2023)
                             Timisoara, Timis, Romania",
         
                             "[e-spres-oh]
@@ -43,7 +43,7 @@ object ListOfInfo {
                             
                             "GDSC Politehnica University of Timisoara
                             Mobile Developer
-                            (Nov. 2022 - Present)
+                            (Nov. 2022 - Jun. 2023)
                             Timisoara, Timis, Romania",
                             
                             "Continental
