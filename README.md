@@ -31,7 +31,12 @@ object ListOfInfo {
     }
     
     fun getExperienceList(): ArrayList<String> {
-        return arrayListOf("Nokia
+        return arrayListOf("[e-spres-oh]
+                            Mobile Software Development Intern
+                            (Jul. 2023 - Present)
+                            Timisoara, Timis, Romania",
+
+                            "Nokia
                             Summer Practice - 5G Mobile App
                             (Jun. 2023 - Jul. 2023)
                             Timisoara, Timis, Romania",
