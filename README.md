@@ -63,8 +63,7 @@ object ListOfInfo {
 ### 💡 My stats:
 <p align="center">
 <a href="https://github.com/cosmin-oros">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=cosmin-oros&&show_icons=true&title_color=BB2AF5&icon_color=F5A80D&text_color=0DF596&bg_color=000000"/>
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cosmin-oros&layout=compact&langs_count=10&theme=midnight-purple"/>
   <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=cosmin-oros&stroke=BB2AF5&background=000000&ring=BB2AF5&fire=BB2AF5&currStreakNum=0DF596&currStreakLabel=BB2AF5&sideNums=0DF596&sideLabels=0DF596&dates=0DF596">
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cosmin-oros&layout=compact&langs_count=10&theme=midnight-purple"/>
 </a>
 </p>
