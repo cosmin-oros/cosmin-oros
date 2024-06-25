@@ -31,9 +31,14 @@ object ListOfInfo {
     }
     
     fun getExperienceList(): ArrayList<String> {
-        return arrayListOf("[e-spres-oh]
+        return arrayListOf("gAIm Solutions
+                            Software Engineer Intern
+                            (Jun. 2024 - Present)
+                            Remote",
+
+                            "[e-spres-oh]
                             Mobile Software Development Intern
-                            (Jul. 2023 - Present)
+                            (Jul. 2023 - Oct. 2023)
                             Timisoara, Timis, Romania",
 
                             "Nokia
