@@ -64,6 +64,9 @@ object ListOfInfo {
 }
 ```
 
+<div align="center">
+  <img src="https://i.imgur.com/JjBZtqo.png" alt="A photo the user wanted to display" style="max-width: 100%; height: auto;">
+</div>
 
 ### 💡 My stats:
 <p align="center">
