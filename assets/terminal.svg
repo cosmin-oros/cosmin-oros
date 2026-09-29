@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="262" viewBox="0 0 840 262" role="img" aria-label="Terminal: Claude Code running a code-review skill and a Playwright end-to-end suite through MCP">
+<title>Terminal: Claude Code running a code-review skill and a Playwright end-to-end suite through MCP</title>
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+  .mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+  
+  @keyframes up { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+  .up { animation: up .7s cubic-bezier(.2,.8,.2,1) both; }
+  .fade { animation: fade .8s ease-out both; }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+
+  @keyframes blink { 50% { opacity: 0; } } .cursor { animation: blink 1.1s steps(1) 6.4s 6; }
+  @keyframes t0 { from { transform: translateX(0); } to { transform: translateX(71px); } }
+  @keyframes t1 { from { transform: translateX(0); } to { transform: translateX(79px); } }
+  @keyframes t4 { from { transform: translateX(0); } to { transform: translateX(301px); } }
+</style>
+
+  <rect x="0.5" y="0.5" width="839" height="261" rx="14" fill="#0b0f17" stroke="#263041"/>
+  <path d="M14.5 0.5 H825.5 A14 14 0 0 1 839.5 14.5 V38 H0.5 V14.5 A14 14 0 0 1 14.5 0.5 Z" fill="#111827"/>
+  <line x1="0.5" y1="38" x2="839.5" y2="38" stroke="#263041"/>
+  <circle cx="22" cy="19" r="6" fill="#ff5f57"/><circle cx="42" cy="19" r="6" fill="#febc2e"/><circle cx="62" cy="19" r="6" fill="#28c840"/>
+  <text class="mono" x="420" y="23" font-size="11.5" text-anchor="middle" fill="#8b98a9">claude code · tenderhub</text>
+  <g class="fade" style="animation-delay:0.25s"><text class="mono" x="28" y="72" font-size="13" fill="#3fb950" font-weight="700">$</text></g>
+  <text class="mono" x="46" y="72" font-size="13" fill="#e6edf3">claude</text>
+  <rect x="44" y="56" width="71" height="22" fill="#0b0f17" transform="translate(71 0)" style="animation: t0 0.27s steps(6, end) 0.40s both;"/>
+  <g class="fade" style="animation-delay:1.05s"><text class="mono" x="28" y="95" font-size="13" fill="#7aa7ff" font-weight="700">&gt;</text></g>
+  <text class="mono" x="46" y="95" font-size="13" fill="#e6edf3">/review</text>
+  <rect x="44" y="79" width="79" height="22" fill="#0b0f17" transform="translate(79 0)" style="animation: t1 0.32s steps(7, end) 1.20s both;"/>
+  <g class="up" style="animation-delay:2.00s"><circle cx="51.5" cy="113.5" r="3.2" fill="#7aa7ff"/><text class="mono" x="64" y="118" font-size="13" fill="#8b98a9" xml:space="preserve">code-review skill · diff checked against project rules</text></g>
+  <g class="up" style="animation-delay:2.50s"><g transform="translate(45 130) scale(0.5416666666666666)"><path d="M20 6L9 17l-5-5" fill="none" stroke="#3fb950" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></g><text class="mono" x="64" y="141" font-size="13" fill="#e6edf3" xml:space="preserve">component patterns match the design system</text></g>
+  <g class="fade" style="animation-delay:2.95s"><text class="mono" x="28" y="164" font-size="13" fill="#7aa7ff" font-weight="700">&gt;</text></g>
+  <text class="mono" x="46" y="164" font-size="13" fill="#e6edf3">run the bid upload end-to-end suite</text>
+  <rect x="44" y="148" width="301" height="22" fill="#0b0f17" transform="translate(301 0)" style="animation: t4 1.57s steps(35, end) 3.10s both;"/>
+  <g class="up" style="animation-delay:4.60s"><circle cx="51.5" cy="182.5" r="3.2" fill="#7aa7ff"/><text class="mono" x="64" y="187" font-size="13" fill="#8b98a9" xml:space="preserve">playwright via MCP · chromium</text></g>
+  <g class="up" style="animation-delay:5.20s"><g transform="translate(45 199) scale(0.5416666666666666)"><path d="M20 6L9 17l-5-5" fill="none" stroke="#3fb950" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></g><text class="mono" x="64" y="210" font-size="13" fill="#e6edf3" xml:space="preserve">upload → extract → review → approve<tspan fill="#3fb950" font-weight="700">   passed</tspan></text></g>
+  <g class="fade" style="animation-delay:6s">
+    <text class="mono" x="28" y="233" font-size="13" fill="#7aa7ff" font-weight="700">&gt;</text>
+    <rect class="cursor" x="46" y="221" width="8" height="15" fill="#e6edf3"/>
+  </g>
+</svg>
